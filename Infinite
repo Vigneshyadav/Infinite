@@ -1,0 +1,5 @@
+Insert into office_A1 (ID, Website_Name, email, Password, Date, Description) values
+(1, "HMSA", "null", "hmsa", "test123", "26-01-2024")
+(2, "HMSA-DB", "infinite", "hmsa", "test123", "26-01-2024")
+(3, "HMSA-HM", "infinite", "hmsa", "wowsa3", "2-12-2023")
+(4, "HMSA-TS", "infinite", "hmsa", "teama3", "14-11-2023")
